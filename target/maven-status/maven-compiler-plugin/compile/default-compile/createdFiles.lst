@@ -1,0 +1,3 @@
+com\ciclo3\motorent\MotorentApplication.class
+com\ciclo3\motorent\controller\CategoryController.class
+com\ciclo3\motorent\repository\crudRepository\LibCrudRepository.class
