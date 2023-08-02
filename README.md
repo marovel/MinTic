@@ -1,1 +1,1 @@
-# MinTic
+# MotoRent
